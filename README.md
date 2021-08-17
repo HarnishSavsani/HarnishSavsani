@@ -1,9 +1,9 @@
+<a href="#"><img width="300px" height="300px" align="center" src="https://github.com/HarnishSavsani/Harnish-Savsani/blob/main/image.png" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harnish Savsani</h1>
 <h3 align="center">I'm a Student, Developer, Freelancer, and Designer!!</h3>
 
 ## 🙋‍♂️ About Me
-
-<a href="#"><img width="300px" height="300px" align="right" src="https://github.com/HarnishSavsani/Harnish-Savsani/blob/main/image.png" height="175px"/></a>
 
 - 👨‍🎨 I’m currently working as a Graphic Designer at Upskill Community!
 - 🌱 I’m currently learning everything 🤣
@@ -65,12 +65,6 @@
 <a href = "https://instagram.com/harnishsavsani15"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HarnishSavsani">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/HarnishSavsani?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
