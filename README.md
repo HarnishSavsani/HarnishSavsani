@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/HarnishSavsani/Harnish-Savsani/blob/main/image.png" height="175px"/></a>
+<a href="#"><img width="300px" height="300px" src="https://github.com/HarnishSavsani/Harnish-Savsani/blob/main/image.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harnish Savsani</h1>
 <h3 align="center">I'm a Student, Developer, Freelancer, and Designer!!</h3>
