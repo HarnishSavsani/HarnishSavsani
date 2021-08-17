@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="300px" height="300px" align="center" src="https://github.com/HarnishSavsani/Harnish-Savsani/blob/main/image.png" height="175px"/></a>
+<a href="#"><img width="300px" height="300px" align="center" src="https://github.com/HarnishSavsani/HarnishSavsani/blob/main/programmer.png" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harnish Savsani</h1>
