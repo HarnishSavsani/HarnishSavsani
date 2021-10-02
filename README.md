@@ -57,7 +57,10 @@
 
 <br/>
 <br/>
-
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 ## Connect with me:
 <p align="left">
 
